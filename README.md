@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **FastAPI (Python)**
 
-- 👯 I’m looking to collaborate on **I'm looking to collaborate on Interested in collaborating on AI, Deep Learning, and mobile/web applications**
+-  **I'm looking to collaborate on Interested  AI, Deep Learning, and mobile/web applications**
 
 - 💬 Ask me about **imagination to implementation**
 
