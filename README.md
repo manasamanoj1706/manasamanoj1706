@@ -1,5 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=fadeIn" width="100%"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EC4B6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Manasa+Manoj+%F0%9F%91%8B;GenAI+Developer+%F0%9F%A4%96;AI+%26+Data+Science+Student+%F0%9F%8E%93;Exploring+LLMs%2C+Prompts+%26+AI+Tools+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -102,7 +106,7 @@ A mix of coursework (Spring Boot, Hibernate, Java MVC on Tomcat), self-driven pr
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=manasamanoj1706&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manasamanoj1706&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.demolab.com/?user=manasamanoj1706&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
