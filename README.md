@@ -1,100 +1,121 @@
-<div align="center">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2600&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Hi+%2C+I'm+Manasa+%F0%9F%91%8B;AI+%26+Data+Science+Student+%F0%9F%8E%93;Java+%2F+Spring+Boot+Backend+Developer+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%E2%9C%A8)](https://git.io/typing-svg)
+<p align="center">
+<em>Exploring Generative AI, building with the frontend, and learning what's under the hood on the backend.</em>
+</p>
 
-Aspiring AI & Data Science engineer building backend systems with Java and Spring Boot.
-Focused on clean code, practical problem solving, and continuous learning.
+### 🚀 About Me
 
-<!-- Badges: replace links below with your real profile/portfolio/social links -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EE4B2B?style=for-the-badge&logo=gmail&logoColor=white)](#)
-
-![Profile Views](https://komarev.com/ghpvc/?username=manasamanoj1706&color=2E9EF7&style=flat&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/manasamanoj1706?label=Followers&color=brightgreen&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/manasamanoj1706?label=Stars&color=yellow&logo=github)
-
-</div>
-
----
-
-### 🧠 About Me
-
-- 🎓 Studying **AI & Data Science**
-- 💻 Currently deep in **Java, Spring Boot, Hibernate & REST APIs**
-- 🔭 Exploring backend development and AI-powered applications
-- 🌱 Learning full-stack development end to end
-- 💬 Ask me about Java, Spring Boot, or getting started in AI/DS
-- ⚡ Fun fact: I debug faster with a clear step-by-step plan!
+- 🎓 Studying AI & Data Science
+- 🤖 Currently deep-diving into Generative AI — prompt engineering, LLM APIs, and AI-powered tools
+- 🎨 Building on the frontend with React and modern UI practices
+- 🛠 Getting comfortable with backend basics — REST APIs, Spring Boot
+- 🐍 Learning Python, and continuing to strengthen my Java fundamentals
+- 💡 I like turning ideas into small working projects rather than just reading theory
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Generative AI**
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-2EC4B6?style=for-the-badge" />
+</p>
+
+**Frontend**
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+**Backend & Languages (learning)**
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+</p>
+
+**Tools**
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+**Other Things I've Worked With**
+
+<p>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
+<img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Image%20Generation-9146FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
+
+A mix of coursework (Spring Boot, Hibernate, Java MVC on Tomcat), self-driven projects (Flask apps, mood-tracking with NLTK/SQLite), and creative experiments (AI image prompts, video editing with OpenCV/FFmpeg).
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Featured Projects
 
-<div align="center">
+| Project | Description | Tech |
+|---|---|---|
+| 🧠 AI-Based Parkinson's Disease Detection | ML model to detect Parkinson's from patient data; co-authored and formatted as an IEEE conference paper | Python, Machine Learning |
+| 🚗 IoT-Based Smart Parking System | Real-time parking slot detection and availability tracking using microcontroller sensors | Arduino/ESP32, Python |
+| 🧘 MindTrack Lite | AI-powered mood monitoring system that analyzes text input to track emotional patterns | Flask, NLTK, SQLite |
+| ⚙️ SpringFlow | REST API project with full CRUD endpoints, built to learn Spring Boot fundamentals in depth | Java, Spring Boot, Maven, MySQL |
+| 🖥 Java MVC Web App | Servlet + JSP based web application deployed on Apache Tomcat | Java, JSP, Servlets, Tomcat |
+| 📊 Logging Middleware (Frontend Eval) | React app with custom logging middleware and API integration, built under a timed technical evaluation | React, Vite, JavaScript |
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=manasamanoj1706&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF&icon_color=00F7FF"/>
-<img height="165" src="https://github-readme-streak-stats.demolab.com?user=manasamanoj1706&theme=radical&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasamanoj1706&layout=compact&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF"/>
-
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manasamanoj1706&theme=react-dark&hide_border=true&area=true)
-
-</div>
+*(Repo links to be added — pin the ones you're proudest of via "Customize your pins" and they'll surface above this README too.)*
 
 ---
 
 ### 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
+<img src="https://raw.githubusercontent.com/manasamanoj1706/manasamanoj1706/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
 
-<!--START_SECTION:waka-->
-<img src="https://raw.githubusercontent.com/manasamanoj1706/manasamanoj1706/output/github-contribution-grid-snake-dark.svg" />
-<!--END_SECTION:waka-->
-
-</div>
-
-> ℹ️ The snake animation above needs a one-time GitHub Action set up in your `manasamanoj1706/manasamanoj1706` repo. I've included setup steps below.
+> One-time setup needed: this animation is generated by a GitHub Action, not by pasting the image alone. See the workflow file steps I've sent separately.
 
 ---
 
-### 📌 Pinned / Featured Projects
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=manasamanoj1706&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manasamanoj1706&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-Pin your best repos from **Customize your pins** on your GitHub profile — they'll show automatically above your README on the profile page itself.
-
----
-
-### 🏆 Achievements
-
-![Followers](https://img.shields.io/github/followers/manasamanoj1706?style=for-the-badge&color=0ea5e9)
-![Stars](https://img.shields.io/github/stars/manasamanoj1706?style=for-the-badge&color=facc15)
-![Contributor](https://img.shields.io/badge/Contributor-Active-green?style=for-the-badge)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasamanoj1706&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
-<div align="center">
+### 📫 Connect with Me
 
-💭 *Building, breaking, and learning — one commit at a time.*
+<p align="center">
+<a href="mailto:manasamanoj1706@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/manasa-manoj-47b05030a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-</div>
+<p align="center"><em>Learning in public — one commit, one prompt, one bug at a time. 🚀</em></p>
